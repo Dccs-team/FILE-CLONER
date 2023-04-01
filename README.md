@@ -25,7 +25,7 @@
 
 - `rm -rf FILE-CLONER`
 
-- `git clone https://github.com/Dccs-team/FILE-CLONER.git
+- `git clone https://github.com/Dccs-team/FILE-CLONER.git`
 
 - `cd FILE-CLONER`
 
