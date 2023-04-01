@@ -11,28 +11,25 @@
 # Installation ☯️
 
  
-- ```
-  pkg update
+- `pkg update`
 
-- pkg upgrade
+- `pkg upgrade`
 
-- pkg install git
+- `pkg install git`
 
-- pkg install python
+- `pkg install python`
 
-- `pip install rich
+- `pip install rich`
 
-- pip install bs4
+- `pip install bs4`
 
-- rm -rf FILE-CLONER
+- `rm -rf FILE-CLONER`
 
-- git clone https://github.com/Dccs-team/FILE-CLONER.git
+- `git clone https://github.com/Dccs-team/FILE-CLONER.git
 
-- cd FILE-CLONER
+- `cd FILE-CLONER`
 
-- python Run.py
-
-```
+- `python Run.py`
 
 # Thank You For Your Support ❤️😘
 
